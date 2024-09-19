@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Certificado = () => {
+const certificado = () => {
   return (
     <div className='grid grid-cols-12 gap-4'>
         
@@ -43,4 +43,4 @@ const Certificado = () => {
   );
 };
 
-export default Certificado;
+export default certificado;

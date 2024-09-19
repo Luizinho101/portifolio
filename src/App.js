@@ -1,10 +1,10 @@
 
 import './App.css';
-import Perfil from './components/Perfil/Perfil';
-import Sobre_mim from './components/Sobre_mim/Sobre_mim';
-import Projetos from './components/Projetos/Projetos';
-import Habilidades from './components/Habilidades/Habilidades';
-import Certificados from './components/Certificados/Certificados';
+import Perfil from './components/perfil/perfil';
+import Sobre_mim from './components/sobre_mim/sobre_mim';
+import Projetos from './components/projetos/projetos';
+import Habilidades from './components/habilidades/habilidades';
+import Certificados from './components/certificados/certificados';
 
 function App() {
   return (
