@@ -9,7 +9,7 @@ function Perfil() {
                     </div>
                     <div className="md:col-start-1 md:col-span-6">
                         <img 
-                        src="imagens/minha_imagem/imagem_luiz.jpg" 
+                        src="Imagens/minha_imagem/imagem_luiz.jpg" 
                         alt="Descrição da Imagem" 
                         className="rounded-lg " 
                         />
