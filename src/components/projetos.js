@@ -11,7 +11,7 @@ function Projetos() {
                      {/* Div para a imagem */}
                      <div className="md:col-start-1 md:col-span-2 flex items-center justify-center h-full">
                         <img 
-                            src="/imagens/Projetos/Capa_Automacao.png" 
+                            src="/imagens/projetos/Capa_Automacao.png" 
                             alt="Descrição da Imagem" 
                             className="w-full rounded-lg mb-4"
                         />
