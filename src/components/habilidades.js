@@ -22,7 +22,7 @@ const Certificado = () => {
                            className="mx-auto mt-8 mb-8  w-32 h-32 col-start-1 col-span-12 md:col-start-5 md:col-span-4"
                         />
                         <img 
-                            src='/imagens/Habilidades/html-5.png' 
+                            src='/imagens/habilidades/html-5.png' 
                             alt="Certificado" 
                             className="mx-auto mt-8 mb-8  w-32 h-32 col-start-1 col-span-12 md:col-start-9 md:col-span-4"
                         />
