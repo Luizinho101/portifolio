@@ -31,13 +31,13 @@ function Perfil() {
                        <div className="">
                                 <div className="flex space-x-6 flax flax-row justify-center items-center md:mt-4 lg:mt-8">
                                     <a href="https://www.instagram.com/seu_perfil" target="_blank" rel="noopener noreferrer">
-                                        <img src="/imagens/Redes_sociais/instagram.png" alt="Instagram" className="w-8 h-8" />
+                                        <img src="/imagens/redes_sociais/instagram.png" alt="Instagram" className="w-8 h-8" />
                                     </a>
                                     <a href="https://github.com/Luizinho101" target="_blank" rel="noopener noreferrer">
-                                        <img src="/imagens/Redes_sociais/github.png" alt="GitHub" className="w-8 h-8" />
+                                        <img src="/imagens/redes_sociais/github.png" alt="GitHub" className="w-8 h-8" />
                                     </a>
                                     <a href="https://www.linkedin.com/in/luiz-antonio-b33861213/" target="_blank" rel="noopener noreferrer">
-                                        <img src="/imagens/Redes_sociais/linkedin.png" alt="LinkedIn" className="w-8 h-8" />
+                                        <img src="/imagens/redes_sociais/linkedin.png" alt="LinkedIn" className="w-8 h-8" />
                                     </a>
                                 </div>
 
