@@ -12,12 +12,12 @@ const Certificado = () => {
         <div className='col-start-2 col-span-10'>
                 <div className='grid grid-cols-12 gap-4'>
                         <img 
-                            src='/imagens/Habilidades/css.png' 
+                            src='/imagens/habilidades/css.png' 
                             alt="Certificado" 
                             className="mx-auto mt-8 mb-8 w-32 h-32 col-start-1 col-span-12 md:col-start-1 md:col-span-4"
                         />
                         <img 
-                            src='/imagens//Habilidades/do-sustenido.png' 
+                            src='/imagens/habilidades/do-sustenido.png' 
                             alt="Certificado" 
                            className="mx-auto mt-8 mb-8  w-32 h-32 col-start-1 col-span-12 md:col-start-5 md:col-span-4"
                         />
@@ -27,12 +27,12 @@ const Certificado = () => {
                             className="mx-auto mt-8 mb-8  w-32 h-32 col-start-1 col-span-12 md:col-start-9 md:col-span-4"
                         />
                         <img 
-                            src='/imagens/Habilidades/sql-server.png' 
+                            src='/imagens/habilidades/sql-server.png' 
                             alt="Certificado" 
                             className="mx-auto mt-8 mb-8 w-32 h-32 col-start-1 col-span-12 md:col-start-1 md:col-span-4"
                         />
                         <img 
-                            src='/imagens/Habilidades/icons8-.net-framework-48.png' 
+                            src='/imagens/habilidades/icons8-.net-framework-48.png' 
                             alt="Certificado" 
                             className="mx-auto mt-8 mb-8 w-32 h-32 col-start-1 col-span-12 md:col-start-5 md:col-span-4"
                         />
