@@ -38,6 +38,13 @@ const certificado = () => {
                             className="mx-auto mt-8 mb-8"
                         />
                     </div>
+                    <div className="bg-gradient-to-r from-[#777CF4] via-[#BD79AF] to-[#F47777] p-2 rounded-[40px] text-center mb-8 col-start-1 col-span-12 md:col-start-1 md:col-span-6">
+                        <img 
+                            src='/imagens/certificados/Prociencia.png' 
+                            alt="Certificado" 
+                            className="mx-auto mt-8 mb-8"
+                        />
+                    </div>
                 </div>
             </div>
     </div>
